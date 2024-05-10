@@ -1,0 +1,14 @@
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/bin/Debug/net8.0/c_orientacao_objeto
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/bin/Debug/net8.0/c_orientacao_objeto.deps.json
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/bin/Debug/net8.0/c_orientacao_objeto.runtimeconfig.json
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/bin/Debug/net8.0/c_orientacao_objeto.dll
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/bin/Debug/net8.0/c_orientacao_objeto.pdb
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/obj/Debug/net8.0/c_orientacao_objeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/obj/Debug/net8.0/c_orientacao_objeto.AssemblyInfoInputs.cache
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/obj/Debug/net8.0/c_orientacao_objeto.AssemblyInfo.cs
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/obj/Debug/net8.0/c_orientacao_objeto.csproj.CoreCompileInputs.cache
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/obj/Debug/net8.0/c_orientacao_objeto.dll
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/obj/Debug/net8.0/refint/c_orientacao_objeto.dll
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/obj/Debug/net8.0/c_orientacao_objeto.pdb
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/obj/Debug/net8.0/c_orientacao_objeto.genruntimeconfig.cache
+/Users/valdirmsjunior/www/alura/formacao_net_developer/c_orientacao_objeto/obj/Debug/net8.0/ref/c_orientacao_objeto.dll
